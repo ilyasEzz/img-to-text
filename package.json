@@ -1,0 +1,16 @@
+{
+  "name": "img-to-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Ilyas Ezzahid",
+  "license": "ISC",
+  "homepage": "https://github.com/ilyasEzz/Image-to-Text",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
