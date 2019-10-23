@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Ilyas Ezzahid",
   "license": "ISC",
-  "homepage": "https://github.com/ilyasEzz/Image-to-Text",
+  "homepage": "https://ilyasezz.github.io/img-to-text/",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
